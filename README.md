@@ -22,12 +22,12 @@
 #  About Me
 
 
- Computer Science & Engineering Student
- AI/ML Enthusiast exploring deep learning, cognitive science, and intelligent systems
- Interested in research combining AI, neuroscience, and philosophy
- Passionate about building impactful AI-powered applications
- Exploring how AI can improve education, healthcare, and human understanding
- Building projects that merge research ideas with real-world software
+ • Computer Science & Engineering Student
+ • AI/ML Enthusiast exploring deep learning, cognitive science, and intelligent systems
+ • Interested in research combining AI, neuroscience, and philosophy
+ • Passionate about building impactful AI-powered applications
+ • Exploring how AI can improve education, healthcare, and human understanding
+ • Building projects that merge research ideas with real-world software
 
 
 ---
